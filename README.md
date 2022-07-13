@@ -2,7 +2,7 @@
 <h3 align="center">A passionate front-end/ Node.JS back-end developer from Egypt</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=markdoha&label=Profile%20views&color=0e75b6&style=flat" alt="markdoha" /> </p>
-- 🔭 I’m currently working on **E-commerce project for GDSC backend course graduation **
+- 🔭 I’m currently working on **E-commerce project for GDSC backend course graduation**
 
 - 🌱 I’m currently learning **Node.JS back-end**
 
