@@ -7,6 +7,8 @@
 
 My Skills
 
+- Programming Languages: C++, Python, Java, JavaScript, PHP, TypeScript
+
 - Backend: NodeJs, TypeScript, PHP
 
 - FrameWorks: NodeJs( ExpressJs, NestJs ), PHP( Laravel )
@@ -16,6 +18,8 @@ My Skills
 - Deployment/Cloud: AWS, GoogleCloud, AZURE, Docker, CircleCI
 
 -  FrontEnd: ReactJs
+
+- Other: OOP, Algorithms, ProblemSolving skills
 
 - 📫 How to reach me **markmamdouh003@gmail.com**
 
