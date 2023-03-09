@@ -3,9 +3,19 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=markdoha&label=Profile%20views&color=0e75b6&style=flat" alt="markdoha" /> </p>
 
-- 🔭 I’m currently working on **E-commerce project for GDSC backend course graduation**
+- 🔭 I’m currently teaching NodeJs for new students at GDSC
 
-- 🌱 I’m currently learning **Node.JS back-end**
+My Skills
+
+- Backend: NodeJs, TypeScript, PHP
+
+- FrameWorks: NodeJs( ExpressJs, NestJs ), PHP( Laravel )
+
+- UnitTest: jest, jasmine
+
+- Deployment/Cloud: AWS, GoogleCloud, AZURE, Docker, CircleCI
+
+-  FrontEnd: ReactJs
 
 - 📫 How to reach me **markmamdouh003@gmail.com**
 
